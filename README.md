@@ -12,6 +12,6 @@ Many events could arise while you walk your dog through these places. You may ha
 
 This fun and interactive game will teach the player how to take care of a dog while encountering many events that could happen in real life.
 
-___
-####Fun Fact  
+---
+#### Fun Fact  
 It displays colored texts in Python Console!  
