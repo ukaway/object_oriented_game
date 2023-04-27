@@ -91,9 +91,9 @@ class Screen:
     @staticmethod
     def print_result(dog, owner):
         print("\t _______________________________")
-        print("\t|\tHunger: {}  Thirst: {}\t\t|".format(dog.hunger, dog.thirst))
-        print("\t|\tReputation: {}\t\t\t\t|".format(owner.reputation))
-        print("\t|_______________________________|\n")
+        print("\t\tHunger: {}  Thirst: {}".format(dog.hunger, dog.thirst))
+        print("\t\tReputation: {}".format(owner.reputation))
+        print("\t_______________________________\n")
         print(Screen.reset, end='')
 
     @staticmethod
