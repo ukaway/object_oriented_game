@@ -1,4 +1,4 @@
-# [Walk Your Dog Simulator] (/CS262_final_project.py)
+# [Walk Your Dog Simulator](/CS262_final_project.py)
 #### Authors: Erin Paranal, Maureen VonHassel, Yuna Ukawa
 This is an object-oriented text-based game project for CS262 at Sacred Heart University, written in Python 3.  
 
