@@ -1,6 +1,6 @@
 # Walk Your Dog Simulator
 #### Authors: Erin Paranal, Maureen VonHassel, Yuna Ukawa
-This is an object-oriented text-based game project for CS262 at Sacred Heart University, written in Python.  
+This is an object-oriented text-based game project for CS262 at Sacred Heart University, written in Python 3.  
 
 In our “walk your dog simulator,” you will get to experience the tasks of taking care of a dog that is customizable to your liking. After giving the dog a name and choosing its color, you’ll start to walk your dog through numerous places. You’ll need to keep your dog happy and healthy by taking care of it as best as you can. This includes monitoring its hunger and thirst, as well as cleaning up any waste it accumulates. 
 
@@ -15,3 +15,4 @@ This fun and interactive game will teach the player how to take care of a dog wh
 ---
 #### Fun Fact  
 It displays colored texts in Python Console!  
+![backyard stage](/images/screenshot1.png)
