@@ -15,5 +15,4 @@ This fun and interactive game will teach the player how to take care of a dog wh
 ---
 #### Fun Fact  
 It displays colored texts in Python Console!  
-![backyard stage](/images/screenshot1.png)
-<img src="/images/screenshot1.png" alt="backyard stage" title="dog" width="40">
+<img src="/images/screenshot1.png" alt="backyard stage" height="80">
