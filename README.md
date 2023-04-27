@@ -11,3 +11,7 @@ You will start the game in your backyard to get used to the actions while walkin
 Many events could arise while you walk your dog through these places. You may have to clean up your dog in the easier stages, while harder stages could include facing friendly or hostile pets. You will have to choose how you or your dog reacts to move onto another stage. For example, if you need to clean up after your dog and don’t, you can lose reputation points. Or, if you face an aggressive dog and decide to attack it, you will have to restart the stage.
 
 This fun and interactive game will teach the player how to take care of a dog while encountering many events that could happen in real life.
+
+---
+Fun Fact  
+It displays colored texts in Python Console!  
